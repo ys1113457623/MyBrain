@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "32f52a235253a3f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9341f49ce511609f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4527d6a26055717",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIMESTAMPS/2025/08-August/2025-08-27-Wednesday.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-27-Wednesday"
+            }
+          },
+          {
+            "id": "9481545bcec097a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIMESTAMPS/2025/09-September/2025-09-11-Thursday.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-11-Thursday"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30dc3cb8657b836c",
+    "type": "split",
+    "children": [
+      {
+        "id": "18d23e23e296182e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5068221caaa29867",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d0d0202ffdc3f786",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "24c7a9a3c039b6d7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b2904dd207f8598b",
+    "type": "split",
+    "children": [
+      {
+        "id": "288dcac213ca52b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60e3097aaea3e470",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ADDITIONAL NOTES/LEARNING RESOURCE/🧠 Dynamo DB Internals.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 🧠 Dynamo DB Internals"
+            }
+          },
+          {
+            "id": "b5610f7218fdc80a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "1196d3dc8264f2f5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5009b4ef20b86484",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "9481545bcec097a8",
+  "lastOpenFiles": [
+    "TIMESTAMPS/2025/09-September/2025-09-10-Wednesday.md",
+    "TIMESTAMPS/2025/09-September/2025-09-03-Wednesday.md",
+    "TIMESTAMPS/2025/09-September/2025-09-02-Tuesday.md",
+    "TIMESTAMPS/2025/09-September/2025-09-01-Monday.md",
+    "TIMESTAMPS/2025/09-September/2025-09-11-Thursday.md",
+    "SCALER DOCS/Scaler Framer POC Doc.md",
+    "Pasted image 20250911111859.png",
+    "Pasted image 20250911111849.png",
+    "Screenshot 2025-08-19 at 7.26.15 PM.png.md",
+    "SCALER DOCS/TRD/Meeting X Assisted Live Playlist Admin Tool TRD.md",
+    "TIMESTAMPS/2025/09-September/2025-09-09-Tuesday.md",
+    "Untitled.md",
+    "Excalidraw/Drawing 2025-09-01 22.10.54.excalidraw.md",
+    "ADDITIONAL NOTES/INTERVIEW NOTES/HOW C++ WORKS INTERNALLY.md",
+    "Excalidraw/Drawing 2025-05-18 17.27.54.excalidraw.md",
+    "EXTRAS/IMAGES/Pasted Image 20250901221636_167.png",
+    "EXTRAS/IMAGES/Pasted Image 20250901232722_702.png",
+    "TIMESTAMPS/2025/08-August/2025-08-27-Wednesday.md",
+    "EXTRAS/IMAGES/Pasted Image 20250901232453_457.png",
+    "EXTRAS/IMAGES/Pasted Image 20250901222037_720.png",
+    "TIMESTAMPS/2025/09-September",
+    "TIMESTAMPS/2025/08-August/2025-08-26-Tuesday.md",
+    "EXTRAS/TEMPLATES/Template, Daily Notes.md",
+    "ADDITIONAL NOTES/LEARNING RESOURCE/DOM/DOM ATTRIBUTES.md",
+    "MYSTERIES SHELL/SECRET SOCITIES.md",
+    "EXTRAS/TEMPLATES/Template, Learning.md",
+    "EXTRAS/TEMPLATES/Template, Meeting Notes.md",
+    "Untitled Kanban.md",
+    "ADDITIONAL NOTES/LEARNING RESOURCE/Essential System Design Performance Metrics.md",
+    "TIMESTAMPS/2025/08-August",
+    "SCALER DOCS/BTL CAMPAING.md",
+    "Screenshot 2025-08-19 at 7.26.15 PM.png",
+    "Screenshot 2025-08-19 at 7.26.37 PM.png",
+    "Screenshot 2025-08-19 at 7.26.29 PM.png",
+    "ADDITIONAL NOTES/LEARNING RESOURCE/HOW PAYMENT SYSTEM WORKS.md",
+    "ADDITIONAL NOTES/LEARNING RESOURCE/How Does AIRTAG Works.md",
+    "ADDITIONAL NOTES/LEARNING RESOURCE/🧠 Dynamo DB Internals.md",
+    "EXTRAS/IMAGES/Pasted image 20250815174053.png",
+    "ADDITIONAL NOTES/INTERVIEW NOTES",
+    "SCALER DOCS/INTERVIEW QUESTION",
+    "ADDITIONAL NOTES/LEARNING RESOURCE/STRUCTUAL PATTERNS",
+    "ADDITIONAL NOTES/LEARNING RESOURCE/DESIGN PATTERNS",
+    "LINKS/POWERFULL WEBSITES",
+    "SCALER DOCS/TRD",
+    "SCALER DOCS",
+    "ADDITIONAL NOTES/LEARNING RESOURCE/DOM",
+    "Untitled.canvas"
+  ]
+}

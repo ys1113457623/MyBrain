@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Shimmering Focus",
+  "enabledCssSnippets": [
+    "my_brain"
+  ],
+  "theme": "moonstone",
+  "monospaceFontFamily": "Zed Sans",
+  "textFontFamily": "Zed Sans",
+  "interfaceFontFamily": "Zed Sans",
+  "baseFontSize": 19
+}

@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "7f2e398f6582fea8",
+    "type": "split",
+    "children": [
+      {
+        "id": "824f80fa1bd4f3d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3eabeb93804362c9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9d381e06f6247eb7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8f712d2eab5f06a5",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "3d9c8d3cf58f87a8",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "5d997b8e1c565b6c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "2d0ec3abb46cc45b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "07b85e49ab576241",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "15db1cd383d2b18b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "ADDITIONAL NOTES/LEARNING RESOURCE/DOM/ELEMENT INTERFACE.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "8aa0fa4eea635b30",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "2e37bf554e1251fc",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {},
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "3eabeb93804362c9",
+  "lastOpenFiles": [
+    "LINKS/SCALER LINK.md",
+    "SCALER DOCS/BTL CAMPAING.md",
+    "SCALER DOCS/TRD/Meeting X Assisted Live Playlist Admin Tool TRD.md",
+    "TIMESTAMPS/MEETINGS/2025-01-06 TKTK.md",
+    "TIMESTAMPS/MEETINGS/🗣️ MEETINGS MOC.md",
+    "Pasted image 20250518175603.png",
+    "Untitled 6.md",
+    "ADDITIONAL NOTES/LEARNING RESOURCE/DESIGN PATTERNS/Abstract Factory.md",
+    "ADDITIONAL NOTES/LEARNING RESOURCE/Real-World Backend Engineering Concepts.md",
+    "Untitled 5.md",
+    "Untitled 4.md",
+    "Untitled 3.md",
+    "ADDITIONAL NOTES/LEARNING RESOURCE/HOW PAYMENT SYSTEM WORKS.md",
+    "Pasted image 20250518182643.png",
+    "Pasted image 20250518182558.png",
+    "Pasted image 20250518182049.png",
+    "ADDITIONAL NOTES/LEARNING RESOURCE/How to Improve Performance of Your Database?.md",
+    "Untitled 2.md",
+    "ADDITIONAL NOTES/LEARNING RESOURCE/SYSTEM DESIGN",
+    "Untitled 1.md",
+    "ADDITIONAL NOTES/LEARNING RESOURCE/How Does AIRTAG Works.md",
+    "Untitled.md",
+    "ADDITIONAL NOTES/LEARNING RESOURCE/DOM/ELEMENT INTERFACE.md",
+    "Excalidraw/Drawing 2025-05-18 17.27.54.excalidraw.md",
+    "Excalidraw",
+    "ADDITIONAL NOTES/LEARNING RESOURCE/DOM/DOM ATTRIBUTES.md",
+    "ADDITIONAL NOTES/LEARNING RESOURCE/DOM/NODE INTERFACES.md",
+    "TIMESTAMPS/2025/01-January/2025-01-07-Tuesday.md",
+    "Excalidraw/Drawing 2025-01-18 16.02.05.excalidraw.md",
+    "TIMESTAMPS/2025/01-January/2025-01-08-Wednesday.md",
+    "TIMESTAMPS/2025/01-January/2025-01-03-Friday.md",
+    "TIMESTAMPS/2025/01-January/2025-01-06-Monday.md",
+    "guides",
+    "guides/content",
+    "LINKS",
+    "TIMESTAMPS/2025",
+    "TIMESTAMPS/2025/01-January",
+    "ADDITIONAL NOTES/LEARNING RESOURCE",
+    "Purpose/Routine",
+    "Purpose/Routine/Daily/Invalid date",
+    "Untitled.canvas"
+  ]
+}
