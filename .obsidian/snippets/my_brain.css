@@ -1,0 +1,52 @@
+.view-header:not(:hover) .view-actions {
+  opacity: 0.1;
+  transition: opacity 0.25s ease-in-out;
+}
+
+/* auto fades status bar items */
+.status-bar:not(:hover) .status-bar-item {
+  opacity: 0.25;
+  transition: opacity 0.25s ease-in-out;
+}
+
+.CodeMirror-vscrollbar,
+.CodeMirror-hscrollbar,
+::-webkit-scrollbar {
+  width: 3px;
+}
+
+.popover.hover-popover {
+  transform: scale(0.8); /* makes the content smaller */
+  max-height: 800px; /* was 300 */
+  min-height: 100px;
+  width: 500px; /* was 400 */
+}
+
+.popover.hover-popover .markdown-embed {
+  height: 800px;
+}
+
+div[data-path="_Inbox"] .nav-folder-title-content::before
+{
+  content: "📥";
+}
+
+div[data-path="Attachments"] .nav-folder-title-content::before
+{
+  content: "📋";
+}
+
+div[data-path="Bible Resources"] .nav-folder-title-content::before
+{
+  content: "⚔️";
+}
+
+div[data-path="Notes"] .nav-folder-title-content::before
+{
+  content: "📝";
+}
+
+div[data-path="Notes/Daily"] .nav-folder-title-content::before
+{
+  content: "📆";
+}
