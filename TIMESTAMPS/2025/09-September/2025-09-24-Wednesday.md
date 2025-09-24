@@ -10,8 +10,8 @@ tags:
 ### 📅 Daily Questions
 
 ##### 🚀 One+ thing I plan to accomplish today is...
-- [ ] Unblock Suryam on Framer Webengage
-- [ ] Unblock Suryam on RCB Through Companion
+- [x] Unblock Suryam on Framer Webengage
+- [x] Unblock Suryam on RCB Through Companion
 - [ ] Unblock Janardan on topics
 
 ##### 👎 Question that i have doubt about...
