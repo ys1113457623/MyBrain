@@ -12,7 +12,9 @@ tags:
 ##### 🚀 One+ thing I plan to accomplish today is...
 - [x] Unblock Suryam on Framer Webengage
 - [x] Unblock Suryam on RCB Through Companion
-- [ ] Unblock Janardan on topics
+- [x] Unblock Janardan on topics
+- [x] Populate AI Interview Issue Activity For Sales Team
+- [x] Analytics On Online MBA Page
 
 ##### 👎 Question that i have doubt about...
 - 
@@ -20,10 +22,10 @@ tags:
 ---
 # 📝 Notes
 - Janardan
-  - Test Btn Changes On Production
-  - Why Ai Button Not Working 
+  - Test Btn Changes On Production [X]
+  - Why Ai Button Not Working [X]
 - Suryam
-	- Webengage
+	- Webengage [X] Pending On Abhishek
 	- RCB Approch 
 ---
 ### Notes created today
