@@ -10,6 +10,8 @@ tags:
 ### 📅 Daily Questions
 
 ##### 🚀 One+ thing I plan to accomplish today is...
+- [ ] Unblock Suryam on Framer Webengage
+- [ ] Unblock Suryam on RCB Through Companion
 - [ ] 
 
 ##### 👎 Question that i have doubt about...
@@ -17,7 +19,8 @@ tags:
 
 ---
 # 📝 Notes
-- 
+- Janardan
+  - Test Btn Changes On Productio
 ---
 ### Notes created today
 ```dataview
