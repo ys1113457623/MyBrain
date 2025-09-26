@@ -17,7 +17,6 @@ tags:
 
 ---
 # 📝 Notes
-
 - 
 ---
 ### Notes created today
